@@ -7,7 +7,7 @@
 import {
   dialogComponent,
   loadingComponent
-}
+} from 'ins-component'
 
 Vue.use(dialogComponent)
 Vue.use(loadingComponent)

@@ -1,5 +1,5 @@
-import dialogsComponent from '../../components/modal'
-import loadingComponent from '../../components/loading'
+import dialogsComponent from './components/modal'
+import loadingComponent from './components/loading'
 
 const components = [
   dialogsComponent,

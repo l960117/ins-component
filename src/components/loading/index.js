@@ -1,8 +1,8 @@
 import Loading from './loading.vue'
 import install from './install'
 
-const loadingCompoent = {
+const loadingComponent = {
   component: Loading,
   install
 }
-export default loadingCompoent
+export default loadingComponent

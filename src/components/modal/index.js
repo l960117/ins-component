@@ -1,8 +1,8 @@
 import Dialogs from './dialogs.vue'
 import install from './install'
 
-const dialogsCompoent = {
+const dialogsComponent = {
   component: Dialogs,
   install
 }
-export default dialogsCompoent
+export default dialogsComponent
